@@ -110,7 +110,7 @@
       "settings": {
         "main": true,
         "title": "Agua Más Vida",
-        "meta_descr": "Venta y distribución de agua purificada 100% Natural en Santiago de Chile y sus alrededores, con entrega gratis a domicilio para mayor información contáctenos: +56 9 6202 4297",
+        "meta_descr": "Elaboración, venta y distribución de agua purificada 100% Natural en Santiago de Chile y sus alrededores, con entrega gratis a domicilio para mayor información contáctenos: +56 9 6202 4297\nventa de agua, bidones de agua, botellón de agua, Agua a domicilio.",
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
@@ -1201,7 +1201,9 @@
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {}
+          "_params": {},
+          "_PHPplaceholders": [],
+          "_JSplaceholders": []
         },
         {
           "alias": false,
