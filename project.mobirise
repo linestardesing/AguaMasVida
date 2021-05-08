@@ -87,7 +87,7 @@
       "enabled": true
     },
     "favicon": "@PROJECT_PATH@/assets/images/kisspng-drop-water-delicate-blue-water-droplets-5a9e35b93c7bd1.9127654215203178812478-128x102.png",
-    "mbrsiteDomain": "ytkufdsk0h",
+    "mbrsiteDomain": "rwkm2xdjcn",
     "cssOptimize": false,
     "lazyLoad": false,
     "lazyType": "nothing",
@@ -104,7 +104,8 @@
       "icon": "@PROJECT_PATH@/assets/images/perfil-512x512.png",
       "themeColor": "#12265a"
     },
-    "google-analytics": "<meta name=\"google-site-verification\" content=\"DZ_fetQeU3V6KkW_KKrNxmumPasRKmZ4qTeaKJxzj7Y\" />"
+    "google-analytics": "<meta name=\"google-site-verification\" content=\"DZ_fetQeU3V6KkW_KKrNxmumPasRKmZ4qTeaKJxzj7Y\" />",
+    "global_header_custom": "<meta name=\"google-site-verification\" content=\"DZ_fetQeU3V6KkW_KKrNxmumPasRKmZ4qTeaKJxzj7Y\" />"
   },
   "pages": {
     "index.html": {
