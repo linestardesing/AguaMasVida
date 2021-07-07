@@ -2181,6 +2181,92 @@ blockquote {
     padding-bottom: 30px;
   }
 }
+.cid-sCk4I8Lfpt {
+  padding-top: 45px;
+  padding-bottom: 45px;
+  background-image: url("../../../assets/images/wallpaperbetter-2-1900x1200.jpg");
+}
+@media (max-width: 767px) {
+  .cid-sCk4I8Lfpt {
+    padding-top: 15px;
+    padding-bottom: 15px;
+  }
+}
+.cid-sCk4I8Lfpt .nav-link {
+  font-weight: 900;
+}
+.cid-sCk4I8Lfpt .nav-item:not(:first-child)::before {
+  background: #45b3df;
+  content: '';
+  display: inline-block;
+  vertical-align: middle;
+  width: 5px;
+  height: 5px;
+  border-radius: 50%;
+  transition: 0.3s;
+}
+.cid-sCk4I8Lfpt .navbar-nav {
+  display: block;
+}
+.cid-sCk4I8Lfpt .navbar-nav li {
+  display: inline-block;
+}
+.cid-sCk4I8Lfpt li .nav-link {
+  display: inline-block;
+  vertical-align: middle;
+  padding: 0.3rem 0.5rem !important;
+}
+.cid-sCk4I8Lfpt .navbar-nav,
+.cid-sCk4I8Lfpt .mbr-section-title {
+  color: #ffffff;
+}
+.cid-sCk8au1f5l {
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+  background-color: #ffffff;
+}
+.cid-sCk8au1f5l img,
+.cid-sCk8au1f5l .item-img {
+  width: 100%;
+  height: 500px;
+  object-fit: cover;
+}
+.cid-sCk8au1f5l .item:focus,
+.cid-sCk8au1f5l span:focus {
+  outline: none;
+}
+.cid-sCk8au1f5l .item {
+  cursor: pointer;
+  margin-bottom: 2rem;
+}
+.cid-sCk8au1f5l .item-wrapper {
+  position: relative;
+  background-color: rgba(0, 0, 0, 0);
+  height: 100%;
+  display: flex;
+  flex-flow: column nowrap;
+}
+.cid-sCk8au1f5l .mbr-section-title {
+  padding: 0;
+  padding-bottom: 100px;
+  margin: 0;
+  color: #000000;
+}
+.cid-sCk8au1f5l .item-title {
+  text-transform: uppercase;
+  margin: 0 20px;
+}
+.cid-sCk8au1f5l .price {
+  margin: 0 20px 36px;
+}
+.cid-sCk8au1f5l .item-content {
+  color: #000000;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  position: absolute;
+  text-align: center;
+}
 .cid-swmts5hf55 {
   padding-top: 45px;
   padding-bottom: 45px;
